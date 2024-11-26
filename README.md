@@ -19,7 +19,7 @@ I'm a passionate learner who loves coding and 3D design. You'll always find me e
 
 ## Contact Me
 - **Email**: bisszn@proton.me
-- **X**: @bisszn
+- **X**: @bisszn_
 
 ## Fun Facts
 - Besides programming, I love playing the piano and enjoying delicious food.
