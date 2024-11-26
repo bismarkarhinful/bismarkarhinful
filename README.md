@@ -3,7 +3,7 @@
 I'm a self-taught software engineer from Ghana 🇬🇭.
 
 ## About Me
-I'm a passionate learner who loves coding and 3D design. You'll always find me exploring new technologies and working on exciting projects.
+I'm a passionate learner who loves coding and 3D design. You'll always find me exploring new technologies and working on exciting stuff.
 
 ## What I'm Currently Learning
 - **JavaScript**: Enhancing my skills in front-end development.
@@ -19,10 +19,10 @@ I'm a passionate learner who loves coding and 3D design. You'll always find me e
 
 ## Contact Me
 - **Email**: bisszn@proton.me
-- **YouTube**: @bisszn
+- **X**: @bisszn
 
 ## Fun Facts
-- Besides programming, I love watching playing the piano and enjoying delicious food.
+- Besides programming, I love playing the piano and enjoying delicious food.
 - I'm always up for a good laugh and enjoy sharing funny moments.
 
 ## const bismark = {
