@@ -2,7 +2,7 @@
 
 ⓘ swe - committed to designing and developing web products with a strong emphasis on user needs and preferences.
 
-- 🌱 I'm currently learning Python
+- 🌱 I'm currently learning JavaScript
 - 📫 How to reach me: bismarkkojoarhinful@gmail.com
 - ⚡ Fun fact: People are more creative in the shower
 
