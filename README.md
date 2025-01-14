@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bismark Kojo Arhinful
+# Hi, I'm Bismark
 
 ⓘ swe - committed to designing and developing web products with a strong emphasis on user needs and preferences.
 
