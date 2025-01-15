@@ -9,7 +9,7 @@
 **How to reach me:**
 bismarkkojoarhinful@gmail.com
 
-**Fun fact:** People are more creative in the shower
+**Fun fact:** People are more creative in the shower.. lol
 ### Let's connect:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/bismarkarhinn/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/bismarkarhinful/)
