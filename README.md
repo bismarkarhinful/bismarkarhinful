@@ -10,23 +10,23 @@
 bismarkkojoarhinful@gmail.com
 
 **Fun fact:** People are more creative in the shower.. lol :)
-### Let's connect:
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/bismarkarhinn/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/bismarkarhinful/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1254109814922149980)
+### connect with me:
+<a aligh="left" href="mailto:bismarkkojoarhinful@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/bismarkarhinn" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/bismarkarhinful" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/users/1254109814922149980" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a> 
 
-### My tech obsession:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-web-services&logoColor=white)](#)
-
-
+### my tech obsession:
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> 
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a> 
+<a href="https://python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>
+<a href="https://html.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/html.svg" alt="HTML" width="25" height="25" /></a>
+<a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/css.svg" alt="CSS" width="25" height="25" /></a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a>
+<a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a>
+<a href="https://astro.build" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/astro.svg" alt="Astro" width="25" height="25" /></a>
+<a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/tools/git.svg" alt="Git" width="25" height="25" /></a>
+<a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a>
+<a href="https://www.blender.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/blender.svg" alt="Blender" width="25" height="25" /></a>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
